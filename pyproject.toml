@@ -2,7 +2,7 @@
 name = "ComfyUI-HeresyNodes"
 description = "Support nodes for my workflows. File management, video generation"
 version = "1.0.1"
-license = "LICENSE"
+license = {file = "LICENSE"}
 
 [project.urls]
 Repository = "https://github.com/heresyCoder/ComfyUI-HeresyNodes"
